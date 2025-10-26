@@ -13,3 +13,5 @@
 5. Realizar um pull request e merge;
 
 6. Criar nosso primeiro fork;
+
+Fundamento GIT - GITHUB

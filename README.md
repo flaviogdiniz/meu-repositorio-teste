@@ -12,5 +12,6 @@
 
 5. Realizar um fork pull request ;
 
+6. Iserindo tags;
 
 Fundamento GIT - GITHUB

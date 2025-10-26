@@ -8,10 +8,9 @@
 
 3. Fazer alterações >> adicionar / comitar/ enviar arquivos;
 
-4. Criar uma nova branch;
+4. Criar uma nova branch e merge;
 
-5. Realizar um pull request e merge;
+5. Realizar um fork pull request ;
 
-6. Criar nosso primeiro fork;
 
 Fundamento GIT - GITHUB
